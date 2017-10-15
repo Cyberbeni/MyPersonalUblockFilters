@@ -1,0 +1,19 @@
+! cookies
+battle.net##.is-open.Navbar-cookieCompliance.Navbar-toast
+finder.com##.show.cookie-footer.js-cookie-footer.fixed-footer
+www.zoldhid.hu###cookie-popup-wrapper
+www.arm.com##.js-policy.c-cookie-policy.c-policy.c-component
+smartshop.hu###cookiebox
+
+! twitch whisper tab
+twitch.tv##.conversations-wrapper
+twitch.tv##.player-whispers-padding:style(margin-bottom: 0rem !important)
+
+! ads
+prohardver.hu##.anyagok
+
+! like overlay
+www.szeretlekmagyarorszag.hu###pselike
+
+! other
+heavy.com##*.preloaded_lightbox
