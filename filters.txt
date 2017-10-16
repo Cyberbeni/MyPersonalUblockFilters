@@ -11,8 +11,7 @@ twitch.tv##.player-whispers-padding:style(margin-bottom: 0rem !important)
 
 ! ads
 prohardver.hu##.anyagok
-prohardver.hu###page>div[class]:not([class^="input"]):first-child
-
+prohardver.hu###page>div[class]:first-child:not([class^="input"])
 
 ! like overlay
 www.szeretlekmagyarorszag.hu###pselike
