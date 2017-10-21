@@ -1,4 +1,4 @@
-! cookies
+! cookie overlays
 battle.net##.is-open.Navbar-cookieCompliance.Navbar-toast
 finder.com##.show.cookie-footer.js-cookie-footer.fixed-footer
 www.zoldhid.hu###cookie-popup-wrapper
@@ -11,10 +11,17 @@ twitch.tv##.player-whispers-padding:style(margin-bottom: 0rem !important)
 
 ! ads
 prohardver.hu##.anyagok
+www.pornhub.com##.adlink2
+
+! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
+||prohardver.hu/design/body-bcg.gif$image
+
 
 ! like overlay
 www.szeretlekmagyarorszag.hu###pselike
+uxdesign.cc##.js-stickyFooter
+macosxautomation.com###overlay
 
 ! other
 heavy.com##*.preloaded_lightbox
