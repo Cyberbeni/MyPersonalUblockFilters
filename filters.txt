@@ -17,11 +17,11 @@ www.pornhub.com##.adlink2
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
 ||prohardver.hu/design/body-bcg.gif$image
 
-
 ! like overlay
 www.szeretlekmagyarorszag.hu###pselike
 uxdesign.cc##.js-stickyFooter
 macosxautomation.com###overlay
+medium.com##.js-stickyFooter
 
 ! other
 heavy.com##*.preloaded_lightbox
