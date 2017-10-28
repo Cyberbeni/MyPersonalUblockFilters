@@ -4,6 +4,7 @@ finder.com##.show.cookie-footer.js-cookie-footer.fixed-footer
 www.zoldhid.hu###cookie-popup-wrapper
 www.arm.com##.js-policy.c-cookie-policy.c-policy.c-component
 smartshop.hu###cookiebox
+www.urbanlegends.hu##.pea_cook_bottomright
 
 ! twitch whisper tab
 twitch.tv##.conversations-wrapper
