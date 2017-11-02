@@ -5,6 +5,7 @@ www.zoldhid.hu###cookie-popup-wrapper
 www.arm.com##.js-policy.c-cookie-policy.c-policy.c-component
 smartshop.hu###cookiebox
 www.urbanlegends.hu##.pea_cook_bottomright
+www.techradar.com##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! twitch whisper tab
 twitch.tv##.conversations-wrapper
