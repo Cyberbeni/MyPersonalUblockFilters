@@ -8,10 +8,8 @@ www.urbanlegends.hu##.pea_cook_bottomright
 www.techradar.com##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! twitch whisper tab
-twitch.tv##.conversations-wrapper
-twitch.tv##.player-whispers-padding:style(margin-bottom: 0rem !important)
-go.twitch.tv##.whispers-threads-box__open-close
-go.twitch.tv##.video-player__container:style(margin-bottom: -9001rem !important)
+twitch.tv##.whispers-threads-box__open-close
+twitch.tv##.video-player__container:style(margin-bottom: -9001rem !important)
 
 ! ads
 prohardver.hu##.anyagok
