@@ -10,10 +10,15 @@ www.techradar.com##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ! twitch whisper tab
 twitch.tv##.conversations-wrapper
 twitch.tv##.player-whispers-padding:style(margin-bottom: 0rem !important)
+go.twitch.tv##.whispers-threads-box__open-close
+go.twitch.tv##.video-player__container:style(margin-bottom: -9001rem !important)
 
 ! ads
 prohardver.hu##.anyagok
 www.pornhub.com##.adlink2
+prohardver.hu##body > a
+www.gamestar.hu##.ad-article-under-lead.ad
+www.gamestar.hu##.ad-article-inside.ad
 
 ! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
