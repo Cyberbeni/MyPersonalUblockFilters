@@ -9,7 +9,7 @@ www.techradar.com##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! twitch whisper tab
 twitch.tv##.whispers-threads-box__container
-twitch.tv##.video-player__container:style(margin-bottom: -9001rem !important)
+twitch.tv##.video-player__container:style(margin-bottom: -40px !important)
 
 ! ads
 prohardver.hu##.anyagok
