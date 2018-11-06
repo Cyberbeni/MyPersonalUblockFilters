@@ -13,7 +13,7 @@ www.techradar.com##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 !twitch.tv##.qa-theatre-mode-button:style(margin-bottom: 40px !important)
 
 ! ads
-prohardver.hu##div.msgblk:nth-of-type(4) > div:nth-of-type(4) > .anyagok
+rohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 www.pornhub.com##.adlink2
 www.gamestar.hu##.ad-article-under-lead.ad
