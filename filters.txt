@@ -12,7 +12,7 @@ www.techradar.com##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 !twitch.tv##.video-player__container:style(margin-bottom: -40px !important)
 !twitch.tv##.qa-theatre-mode-button:style(margin-bottom: 40px !important)
 ! bigger Twitch chat box
-www.twitch.tv##.tw-textarea--no-resize.tw-textarea.tw-full-width.tw-font-size-6.tw-border-radius-medium.tw-block:style(height: 84px)
+www.twitch.tv##.tw-textarea--no-resize.tw-textarea.tw-full-width.tw-font-size-6.tw-border-radius-medium.tw-block:style(height: 84px !important)
 
 
 ! ads
