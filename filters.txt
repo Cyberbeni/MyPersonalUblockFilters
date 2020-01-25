@@ -16,6 +16,7 @@ www.twitch.tv##.tw-top-0.tw-right-0.tw-absolute > .tw-interactive.tw-button-icon
 ! ads
 prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
+prohardver.hu##.content-list-detailed.content-list
 www.pornhub.com##.adlink2
 www.gamestar.hu##.ad-article-under-lead.ad
 www.gamestar.hu##.ad-article-inside.ad
@@ -33,3 +34,33 @@ medium.com##.js-stickyFooter
 ! other
 heavy.com##*.preloaded_lightbox
 www.macworld.co.uk##.apester-element
+
+! https://encycolorpedia.com/
+! Prohardver eredeti színek
+! Az oldal háttere: dfdfdf
+! A középső rész háttere: ede9de
+! Téma összefoglaló fejléce: c8b587
+! Téma összefoglaló fejléc border: a08649
+! Téma összefoglaló háttere: dfd3a9
+! Szövegdobozok fejléce: c8bda2
+! Szövegdobozok fejléc border: a29062
+! Szövegdobozok háttere: dfd9c3
+! Link: b42224
+prohardver.hu###page-forum:style(background-color: #272625 !important)
+prohardver.hu###middle > .container:style(background: #272625 !important)
+prohardver.hu###top > .container:style(background: #272625 !important; color: #fff !important)
+prohardver.hu##.modlinks > .btn-xs.btn
+prohardver.hu##.breadcrumb a:style(color: #fff !important)
+
+prohardver.hu##.msg-featured > .card > .card-header:style(background: #403a2e !important; border-color: #352d1d !important)
+prohardver.hu##.msg-featured > .card > .card-body:style(background: #464237 !important)
+
+prohardver.hu##.msg-list .card > .card-header:style(background: #403a2e !important; color: #fff !important; border-color: #363023 !important)
+prohardver.hu##.card > .card-body:style(background: #46443e !important)
+prohardver.hu##.card > .card-body:style(color: #fff !important)
+prohardver.hu##.msg-list .card a:style(color: #d83335 !important)
+prohardver.hu##.msg-controls > .form-check-inline.form-check > label:style(color: #fff !important)
+
+prohardver.hu###mce_0:style(background: #202020)
+prohardver.hu##.rtif-formats-tmce.rtif-formats.rtif-ui:style(background: #aaa !important)
+prohardver.hu##.btn-xs.btn:style(color: #fff !important)
