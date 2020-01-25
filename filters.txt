@@ -46,9 +46,11 @@ www.macworld.co.uk##.apester-element
 ! Szövegdobozok fejléc border: a29062
 ! Szövegdobozok háttere: dfd9c3
 ! Link: b42224
-prohardver.hu###page-forum:style(background-color: #272625 !important)
-prohardver.hu###middle > .container:style(background: #272625 !important)
-prohardver.hu###top > .container:style(background: #272625 !important; color: #fff !important)
+! Navbar: c8bda2
+prohardver.hu##.pager-navbar:style(background-color: #403c35 !important)
+prohardver.hu###page-forum:style(background-color: #1a170e !important)
+prohardver.hu###middle > .container:style(background: #1a170e !important)
+prohardver.hu###top > .container:style(background: #1a170e !important; color: #fff !important)
 prohardver.hu##.modlinks > .btn-xs.btn
 prohardver.hu##.breadcrumb a:style(color: #fff !important)
 
