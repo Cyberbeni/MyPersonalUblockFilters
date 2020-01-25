@@ -61,6 +61,6 @@ prohardver.hu##.card > .card-body:style(color: #fff !important)
 prohardver.hu##.msg-list .card a:style(color: #ed1e21 !important)
 prohardver.hu##.msg-controls > .form-check-inline.form-check > label:style(color: #fff !important)
 
-prohardver.hu###mce_0:style(background: #202020)
+prohardver.hu###mce_0:style(background: #202020 !important)
 prohardver.hu##.rtif-formats-tmce.rtif-formats.rtif-ui:style(background: #aaa !important)
 prohardver.hu##.btn-xs.btn:style(color: #fff !important)
