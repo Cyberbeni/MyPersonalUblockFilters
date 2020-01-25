@@ -58,7 +58,7 @@ prohardver.hu##.msg-featured > .card > .card-body:style(background: #464237 !imp
 prohardver.hu##.msg-list .card > .card-header:style(background: #403a2e !important; color: #fff !important; border-color: #363023 !important)
 prohardver.hu##.card > .card-body:style(background: #46443e !important)
 prohardver.hu##.card > .card-body:style(color: #fff !important)
-prohardver.hu##.msg-list .card a:style(color: #d83335 !important)
+prohardver.hu##.msg-list .card a:style(color: #d77366 !important)
 prohardver.hu##.msg-controls > .form-check-inline.form-check > label:style(color: #fff !important)
 
 prohardver.hu###mce_0:style(background: #202020)
