@@ -23,6 +23,7 @@ prohardver.hu##.content-list-detailed.content-list
 www.pornhub.com##.adlink2
 www.gamestar.hu##.ad-article-under-lead.ad
 www.gamestar.hu##.ad-article-inside.ad
+imgur.com##.Footer-whitelist
 
 ! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
