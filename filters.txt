@@ -1,12 +1,3 @@
-! cookie overlays
-battle.net##.is-open.Navbar-cookieCompliance.Navbar-toast
-finder.com##.show.cookie-footer.js-cookie-footer.fixed-footer
-www.zoldhid.hu###cookie-popup-wrapper
-www.arm.com##.js-policy.c-cookie-policy.c-policy.c-component
-smartshop.hu###cookiebox
-www.urbanlegends.hu##.pea_cook_bottomright
-www.techradar.com##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
-
 ! twitch whisper tab
 twitch.tv##.video-player__container--theatre-whispers:style(margin-bottom: -40px !important)
 ! bigger Twitch chat box
@@ -20,24 +11,11 @@ github.com##.blob-code:style(tab-size: 3 !important)
 prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 prohardver.hu##.content-list-detailed.content-list
-www.pornhub.com##.adlink2
-www.gamestar.hu##.ad-article-under-lead.ad
-www.gamestar.hu##.ad-article-inside.ad
 imgur.com##.Footer-whitelist
 
 ! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
 ||prohardver.hu/design/body-bcg.gif$image
-
-! like overlay
-www.szeretlekmagyarorszag.hu###pselike
-uxdesign.cc##.js-stickyFooter
-macosxautomation.com###overlay
-medium.com##.js-stickyFooter
-
-! other
-heavy.com##*.preloaded_lightbox
-www.macworld.co.uk##.apester-element
 
 ! https://encycolorpedia.com/
 ! Prohardver eredeti színek
