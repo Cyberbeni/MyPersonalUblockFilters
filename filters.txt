@@ -12,6 +12,8 @@ prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 prohardver.hu##.content-list-detailed.content-list
 imgur.com##.Footer-whitelist
+imgur.com##.EmeraldBannerV1
+imgur.com##.EmeraldBannerV2
 
 ! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
