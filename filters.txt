@@ -10,10 +10,12 @@ www.twitch.tv##.tw-top-0.tw-right-0.tw-absolute > .tw-interactive.tw-button-icon
 prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 prohardver.hu##ul>div>.content-list-detailed.content-list
+prohardver.hu###center > div #Prohardver_forum_roadblock:upward(#center > div)
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
 www.kongregate.com##div.chat-message > p:has-text(datingfree.us)
+www.twitch.tv##.subtember-gradient
 
 ! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
