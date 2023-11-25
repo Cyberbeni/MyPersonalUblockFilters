@@ -14,6 +14,7 @@ prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 prohardver.hu##ul>div>.content-list-detailed.content-list
 prohardver.hu###center > div #Prohardver_forum_roadblock:upward(#center > div)
+prohardver.hu###page-forum > #middle > .container > .row > #center > div:first-of-type
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
