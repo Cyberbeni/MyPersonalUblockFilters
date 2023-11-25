@@ -14,7 +14,16 @@ prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 prohardver.hu##ul>div>.content-list-detailed.content-list
 prohardver.hu###center > div #Prohardver_forum_roadblock:upward(#center > div)
-prohardver.hu###page-forum > #middle > .container > .row > #center > div:first-of-type
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='0']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='1']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='2']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='3']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='4']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='5']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='6']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='7']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='8']
+prohardver.hu###page-forum > #middle > .container > .row > #center > div[class*='9']
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
