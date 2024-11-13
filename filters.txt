@@ -7,7 +7,7 @@ www.twitch.tv##.tw-textarea--no-resize.tw-textarea.tw-full-width.tw-font-size-6.
 www.twitch.tv##.tw-top-0.tw-right-0.tw-absolute > .tw-interactive.tw-button-icon--secondary.tw-button-icon
 
 ! YouTube
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com##.ytd-rich-shelf-renderer#dismissible:has(#title-text:contains(Shorts))
 www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contains(Sleep timer))
 
 ! ads
