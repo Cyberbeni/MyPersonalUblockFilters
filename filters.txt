@@ -9,6 +9,8 @@ www.twitch.tv##.tw-top-0.tw-right-0.tw-absolute > .tw-interactive.tw-button-icon
 ! YouTube
 www.youtube.com##.ytd-rich-shelf-renderer#dismissible:has(#title-text:contains(Shorts))
 www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contains(Sleep timer))
+! Custom playback speed slider makes the menu scrollable, so it's harder to select the speeds at the bottom
+www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contains(Custom ))
 
 ! ads
 prohardver.hu##.msgblk > div > .anyagok
