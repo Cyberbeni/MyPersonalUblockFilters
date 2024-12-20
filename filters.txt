@@ -1,3 +1,4 @@
+! Twitch
 ! whisper tab
 twitch.tv##.video-player__container--theatre-whispers:style(margin-bottom: -40px !important)
 ! ads below stream (only shows sometimes, still need to get rid of the empty space)
@@ -5,6 +6,9 @@ twitch.tv##.stream-display-ad__container
 ! bigger Twitch chat box, used to be height: 84px !important, padding-right: 1rem !important
 www.twitch.tv##.tw-textarea--no-resize.tw-textarea.tw-full-width.tw-font-size-6.tw-border-radius-medium.tw-block:style(padding-right: 3rem !important)
 www.twitch.tv##.tw-top-0.tw-right-0.tw-absolute > .tw-interactive.tw-button-icon--secondary.tw-button-icon
+
+! GitHub
+github.com##.copilotPreview__container
 
 ! YouTube
 ! What did you think of this video?
