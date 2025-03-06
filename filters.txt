@@ -31,6 +31,9 @@ imgur.com##.EmeraldBannerV2
 www.kongregate.com##div.chat-message > p:has-text(datingfree.us)
 www.twitch.tv##.subtember-gradient
 
+! low quality news, often about AI
+prohardver.hu##.content-list.card
+
 ! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
 ||prohardver.hu/design/body-bcg.gif$image
