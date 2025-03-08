@@ -32,7 +32,7 @@ www.kongregate.com##div.chat-message > p:has-text(datingfree.us)
 www.twitch.tv##.subtember-gradient
 
 ! low quality news, often about AI
-prohardver.hu##.content-list.card
+prohardver.hu###left > div
 
 ! page layout fixes
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
