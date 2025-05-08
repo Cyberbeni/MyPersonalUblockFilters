@@ -26,6 +26,8 @@ www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contai
 prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 prohardver.hu##ul>div>.content-list-detailed.content-list
+! Friss! Olvastad már?
+prohardver.hu##.list-unstyled > div
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
