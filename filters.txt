@@ -13,6 +13,7 @@ www.twitch.tv##.bonus-round-gradient-urgent
 ! GitHub
 github.com##.copilotPreview__container
 github.com##.AppHeader-CopilotChat
+github.com##.dashboard-changelog
 
 ! YouTube
 ! What did you think of this video?
