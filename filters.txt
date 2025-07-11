@@ -42,35 +42,6 @@ prohardver.hu###left > div
 prohardver.hu###page>div[class]:first-child:not([class^="input"])
 ||prohardver.hu/design/body-bcg.gif$image
 
-! https://encycolorpedia.com/
-! Prohardver eredeti színek
-! Az oldal háttere: dfdfdf
-! A középső rész háttere: ede9de
-! Téma összefoglaló fejléce: c8b587
-! Téma összefoglaló fejléc border: a08649
-! Téma összefoglaló háttere: dfd3a9
-! Szövegdobozok fejléce: c8bda2
-! Szövegdobozok fejléc border: a29062
-! Szövegdobozok háttere: dfd9c3
-! Link: b42224
-! Navbar: c8bda2
-prohardver.hu##.pager-navbar:style(background-color: #272729 !important)
+! Prohardver dark mode fixes
 prohardver.hu###page-forum:style(background-color: #030303 !important)
-prohardver.hu###middle > .container:style(background: #030303 !important)
-prohardver.hu###top > .container:style(background: #030303 !important; color: #f0f0f0 !important)
-prohardver.hu##.modlinks > .btn-xs.btn
 prohardver.hu##.breadcrumb a:style(color: #f0f0f0 !important)
-
-prohardver.hu##.msg-list .card > .card-header:style(background: #272729 !important; color: #f0f0f0 !important; border-color: #343536 !important)
-prohardver.hu##.card > .card-body:style(background: #1a1a1b !important)
-prohardver.hu##.card > .card-body:style(color: #f0f0f0 !important)
-prohardver.hu##.msg-list .card a:style(color: #ed1e21 !important)
-prohardver.hu##.msg-controls > .form-check-inline.form-check > label:style(color: #f0f0f0 !important)
-prohardver.hu##h4.list-message:style(background: #1a1a1b !important)
-
-prohardver.hu##.msg-featured > .card > .card-header:style(background: #403a2e !important; border-color: #352d1d !important)
-prohardver.hu##.msg-featured > .card > .card-body:style(background: #464237 !important)
-
-prohardver.hu###mce_0:style(background: #202020 !important)
-prohardver.hu##.rtif-formats-tmce.rtif-formats.rtif-ui:style(background: #aaa !important)
-prohardver.hu##.btn-xs.btn:style(color: #f0f0f0 !important)
