@@ -32,7 +32,6 @@ prohardver.hu##.list-unstyled > div
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
-www.kongregate.com##div.chat-message > p:has-text(datingfree.us)
 www.twitch.tv##.subtember-gradient
 
 ! low quality news, often about AI
