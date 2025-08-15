@@ -14,6 +14,7 @@ www.twitch.tv##.bonus-round-gradient-urgent
 github.com##.copilotPreview__container
 github.com##.AppHeader-CopilotChat
 github.com##.dashboard-changelog
+github.com##[class^=CopilotAgentModeButton]
 
 ! YouTube
 ! What did you think of this video?
