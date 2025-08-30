@@ -34,7 +34,7 @@ prohardver.hu##.list-unstyled > div
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
-www.twitch.tv##.subtember-gradient
+www.twitch.tv###twilight-sticky-footer-root
 
 ! low quality news, often about AI
 prohardver.hu###left > div
