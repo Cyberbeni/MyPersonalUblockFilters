@@ -19,7 +19,7 @@ github.com##.copilotPreview__container
 github.com##.AppHeader-CopilotChat
 github.com##.dashboard-changelog
 github.com##[class^=CopilotAgentModeButton]
-github.com##li:has-text("Copilot")
+github.com##li[class]:has-text("Copilot")
 
 ! YouTube
 ! What did you think of this video?
