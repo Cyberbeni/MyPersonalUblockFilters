@@ -10,9 +10,9 @@ www.twitch.tv##.tw-top-0.tw-right-0.tw-absolute > .tw-interactive.tw-button-icon
 www.twitch.tv##.bonus-round-gradient
 www.twitch.tv##.bonus-round-gradient-urgent
 
-! AI bullshit
-! Google AI overview
+! AI overview/summary
 www.google.com##div[data-mcpr]
+www.youtube.com###expandable-metadata
 
 ! GitHub
 github.com##.copilotPreview__container
