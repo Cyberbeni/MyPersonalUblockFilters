@@ -20,6 +20,7 @@ github.com##.AppHeader-CopilotChat
 github.com##.dashboard-changelog
 github.com##[class^=CopilotAgentModeButton]
 github.com##li[class*=ActionListItem]:has-text("Copilot")
+github.com##.marketing-banner
 
 ! YouTube
 ! What did you think of this video?
