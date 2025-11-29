@@ -11,8 +11,10 @@ www.twitch.tv##.bonus-round-gradient
 www.twitch.tv##.bonus-round-gradient-urgent
 
 ! AI overview/summary
+www.google.com###lb
 www.google.com##div[data-mcpr]
 www.youtube.com###expandable-metadata
+prohardver.hu##.dropdown-toggle.nav-link:contains(AI)
 
 ! GitHub
 github.com##.copilotPreview__container
@@ -51,3 +53,6 @@ prohardver.hu###page>div[class]:first-child:not([class^="input"])
 ! Prohardver dark mode fixes
 prohardver.hu###page-forum:style(background-color: #030303 !important)
 prohardver.hu##.breadcrumb a:style(color: #f0f0f0 !important)
+
+! Cookie
+www.oliottaviani.com##.mixpanel-consent-banner
