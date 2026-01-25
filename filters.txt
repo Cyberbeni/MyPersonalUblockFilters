@@ -13,6 +13,7 @@ www.twitch.tv##.bonus-round-gradient-urgent
 ! AI overview/summary
 www.google.com##div[data-mcpr]
 www.youtube.com###expandable-metadata
+www.youtube.com###video-summary
 prohardver.hu##.dropdown-toggle.nav-link:contains(AI)
 
 ! GitHub
