@@ -15,6 +15,7 @@ www.google.com##div[data-mcpr]
 www.youtube.com###expandable-metadata
 www.youtube.com###video-summary
 prohardver.hu##.dropdown-toggle.nav-link:contains(AI)
+www.portfolio.hu##.pfarticle-section-ai-summary
 
 ! GitHub
 github.com##.copilotPreview__container
