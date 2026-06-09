@@ -31,7 +31,7 @@ www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contai
 ! ads
 prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
-prohardver.hu##.message-list > ul >:has-text("Friss! Olvastad már?")
+prohardver.hu##.message-list > ul >:has-text("Olvastad már?")
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
