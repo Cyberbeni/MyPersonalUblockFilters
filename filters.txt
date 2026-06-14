@@ -32,6 +32,7 @@ www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contai
 prohardver.hu##.msgblk > div > .anyagok
 prohardver.hu##body > a
 prohardver.hu##.message-list > ul >:has-text("Olvastad már?")
+prohardver.hu##.userjob-list
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
