@@ -27,6 +27,7 @@ github.com##.marketing-banner
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
 www.youtube.com##.ytd-rich-shelf-renderer#dismissible:has(#title-text:contains(Shorts))
 www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contains(Sleep timer))
+www.youtube.com##.annotation
 
 ! ads
 prohardver.hu##.msgblk > div > .anyagok
