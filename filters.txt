@@ -6,6 +6,8 @@ twitch.tv##.stream-display-ad__container
 ! Bonus subs for gift subs
 www.twitch.tv##.bonus-round-gradient
 www.twitch.tv##.bonus-round-gradient-urgent
+! subtember
+www.twitch.tv##.subtember-callout-container
 
 ! AI overview/summary
 www.google.com##div[data-mcpr]
