@@ -32,9 +32,7 @@ www.youtube.com##.ytp-settings-menu .ytp-menuitem:has(.ytp-menuitem-label:contai
 www.youtube.com##.annotation
 
 ! ads
-prohardver.hu##.msgblk > div > .anyagok
-prohardver.hu##body > a
-prohardver.hu##.message-list > ul >:has-text("Olvastad már")
+prohardver.hu##.xabre
 prohardver.hu##.userjob-list
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
@@ -43,10 +41,6 @@ www.twitch.tv###twilight-sticky-footer-root
 
 ! low quality news, often about AI
 prohardver.hu###left > div
-
-! page layout fixes
-prohardver.hu###page>div[class]:first-child:not([class^="input"])
-||prohardver.hu/design/body-bcg.gif$image
 
 ! Prohardver dark mode fixes
 prohardver.hu###page-forum:style(background-color: #030303 !important)
