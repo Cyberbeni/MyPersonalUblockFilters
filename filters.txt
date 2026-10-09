@@ -38,6 +38,7 @@ imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
 www.twitch.tv###twilight-sticky-footer-root
+www.hasznaltauto.hu##[id^=bumper-]
 
 ! low quality news, often about AI
 prohardver.hu###left > div
