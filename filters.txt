@@ -18,6 +18,7 @@ www.portfolio.hu##.pfarticle-section-ai-summary
 ingatlan.com##[class^="ai-"]
 www.profession.hu##.ai-search-banner
 aqua.hu##molin-shop-ai
+www.laptopszaki.hu###ls-rag-chat
 
 ! GitHub
 github.com##.copilotPreview__container
