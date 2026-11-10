@@ -38,6 +38,7 @@ www.youtube.com##.annotation
 
 ! ads
 prohardver.hu##.xabre
+prohardver.hu##li:has(.content-image > a[href^="/hir/"])
 prohardver.hu##.userjob-list
 imgur.com##.Footer-whitelist
 imgur.com##.EmeraldBannerV1
