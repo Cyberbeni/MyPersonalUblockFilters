@@ -45,7 +45,6 @@ imgur.com##.EmeraldBannerV1
 imgur.com##.EmeraldBannerV2
 www.twitch.tv###twilight-sticky-footer-root
 www.hasznaltauto.hu##[id^=bumper-]
-www.facebook.com##.html-div:has(a[href^="/ads/"])
 
 ! low quality news, often about AI
 prohardver.hu###left > div
